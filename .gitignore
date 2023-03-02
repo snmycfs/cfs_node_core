@@ -1,0 +1,6 @@
+OldTestResults
+node_modules
+.vscode
+test.js
+test2.js
+package-lock.json

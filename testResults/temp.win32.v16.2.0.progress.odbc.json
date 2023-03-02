@@ -1,0 +1,36 @@
+[
+    {
+        "PalletNum": "0600457285",
+        "PlantId": 6,
+        "LocCode": "GHOST",
+        "ItemCount": 1,
+        "SerializedPallet": true,
+        "TruckPalLoc": "",
+        "NameValuePairs": "Counter=2\u0002PalletType=\u0002loadTemp=undefined\u0002PrintedBy=0\u0002SSCC18Barcode=00112345670604572854\u0002PrdInNimbus=",
+        "TimeFrame": "2020-02-14 15:02:10.193",
+        "CreateDateTime": "2020-02-14 15:02:10.193",
+        "ModifyDateTime": "2022-12-23 00:22:16.264",
+        "RecordSeq": 57519,
+        "AssignedTo": "",
+        "NSPOrderNumber": "",
+        "DateAssigned": null,
+        "AssignedBy": "",
+        "OverrideDate": "2020-04-29"
+    },
+    {
+        "AssignedBy": "",
+        "AssignedTo": "",
+        "DateAssigned": null,
+        "ItemCount": 1,
+        "LocCode": "GHOST",
+        "NameValuePairs": "Counter=2\u0002PalletType=\u0002loadTemp=undefined\u0002PrintedBy=0\u0002SSCC18Barcode=00112345670604572854\u0002PrdInNimbus=",
+        "NSPOrderNumber": "",
+        "OverrideDate": "2020-04-29",
+        "PalletNum": "0600457285",
+        "PlantId": 6,
+        "RecordSeq": 57519,
+        "SerializedPallet": true,
+        "TimeFrame": "2020-02-14 15:02:10.193",
+        "TruckPalLoc": ""
+    }
+]

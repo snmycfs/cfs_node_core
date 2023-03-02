@@ -1,0 +1,20 @@
+{
+  "name": "cfs_node_core2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node preinstall.js",
+    "postinstall": "node postinstall.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.2",
+    "orm": "github:snmycfs/orm"
+  },
+  "optionalDependencies": {
+    "mssql": "^7.1.3"
+  }
+}
